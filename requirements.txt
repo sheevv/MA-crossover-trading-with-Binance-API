@@ -1,0 +1,7 @@
+
+pip install python-binance
+pip install bta-lib
+pip install backtrader
+pip install pyfolio
+pip install qgrid
+
